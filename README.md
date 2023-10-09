@@ -4,7 +4,6 @@ Flutter Navigation Practice
 ## ScreenShots of screens
 It includes 3 pages,Home,About,Gratitude Pages
 ![Home Screen](image1.png)
-<img src="image1.png" alt="Image Alt Text" width="300" height="300">
 ## Gratitude Page 
 It has includes three list items, Family Friends, Coffee Items
 ![Gratitude Page](image2.png)
